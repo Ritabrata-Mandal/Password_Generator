@@ -28,8 +28,3 @@ This is a simple, responsive web application that allows users to generate stron
 3. Click the "Generate Password" button.
 4. Use the copy button to copy the generated password to your clipboard.
 
-## Preview
-
-
-```markdown
-![App Screenshot](./assets/screenshot.png)
